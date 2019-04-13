@@ -16,22 +16,22 @@ See: https://github.com/lentinj/tp-compact-keyboard/
 ## 0x00: ???
 
 ## 0x01: Media Keys
-- 0 - f5 f6 f7 f8 f9 f10 f11 f12
-- 1 - f5 f6 f7 f8 f9 f10 f11 f12
-- 2 - f5 f6 f7 f8 f9 f10 f11 f12
-- 3 - f5 f6 f7 f8 f9 f10 f11
-- 4 - f5 f6 f7 f8 f9 f10 f11 f12
-- 5 - f5 f6 f7 f8 f9 f10
-- 6 - f5 f6 f7 f8 f9 f10 f11 f12
-- 7 - f5 f6       f9 f10
-- 8 -                f10
-- 9 - f5 f6 f7 f8 f9 f10 f11 f12
-- a - f5 f6 f7 f8 f9 f10 f11 f12
-- b - f5 f6 f7 f8 f9 f10 f11 f12
-- c - f5 f6 f7 f8 f9 f10 f11 f12
-- d - f5 f6 f7 f8 f9 f10 f11 f12
-- e - f5 f6 f7 f8 f9 f10 f11 f12
-- f - f5 f6 f7 f8 f9 f10 f11 f12
+- 0 - `f5 f6 f7 f8 f9 f10 f11 f12`
+- 1 - `f5 f6 f7 f8 f9 f10 f11 f12`
+- 2 - `f5 f6 f7 f8 f9 f10 f11 f12`
+- 3 - `f5 f6 f7 f8 f9 f10 f11`
+- 4 - `f5 f6 f7 f8 f9 f10 f11 f12`
+- 5 - `f5 f6 f7 f8 f9 f10`
+- 6 - `f5 f6 f7 f8 f9 f10 f11 f12`
+- 7 - `f5 f6       f9 f10`
+- 8 - `               f10`
+- 9 - `f5 f6 f7 f8 f9 f10 f11 f12`
+- a - `f5 f6 f7 f8 f9 f10 f11 f12`
+- b - `f5 f6 f7 f8 f9 f10 f11 f12`
+- c - `f5 f6 f7 f8 f9 f10 f11 f12`
+- d - `f5 f6 f7 f8 f9 f10 f11 f12`
+- e - `f5 f6 f7 f8 f9 f10 f11 f12`
+- f - `f5 f6 f7 f8 f9 f10 f11 f12`
 
 ## 0x02: TrackPoint Sensitivity
 - N. - Base Speed
